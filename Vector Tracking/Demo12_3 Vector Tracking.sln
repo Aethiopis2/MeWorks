@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demo12_3 Vector Tracking", "Demo12_3 Vector Tracking.vcproj", "{35E52E0A-374E-4E2F-BEC0-5A85B1E86324}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{35E52E0A-374E-4E2F-BEC0-5A85B1E86324}.Debug.ActiveCfg = Debug|Win32
+		{35E52E0A-374E-4E2F-BEC0-5A85B1E86324}.Debug.Build.0 = Debug|Win32
+		{35E52E0A-374E-4E2F-BEC0-5A85B1E86324}.Release.ActiveCfg = Release|Win32
+		{35E52E0A-374E-4E2F-BEC0-5A85B1E86324}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
